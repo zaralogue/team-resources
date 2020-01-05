@@ -10,7 +10,7 @@
 ## Guiding principles
 **Connection**
 
-I connect people to the best version of their future and support their career paths even when they differ from the immediate goals for myself and my team
+I connect people to the best version of their future and find ways to support their career paths even when they differ from the immediate goals of my team
 
 **Empathy**
 
