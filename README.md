@@ -1,5 +1,7 @@
 # Welcome to the team 
 
+Hi, I'm Zara and I'm excited to be working with you! This readme gives some background on my management style so you have a bit of background before we start working together.
+
 - [Guilding principles](#guiding-principles)
 - [My role](#my-role)
 - [Your role](#your-role)
