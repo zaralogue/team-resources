@@ -50,9 +50,11 @@ Reimbursements - I expect you'll use good judgement and rely on GitHub's guides 
 ## Known issues
 (aka things I'm working on)
 
-Despite the words under the "transparency" value up above, I do struggle with being super direct when it comes to relaying difficult feedback. It's something I'm working on.
+Despite the words under the "transparency" value up above, I do struggle with being direct when it comes to relaying difficult feedback. 
 
 I can tend to take on too many projects/causes/etc (because they're all so interesting!) which can lead to burn out. 
 
-I'm still getting used to 100% remote life and how to connect with people I only see every quarter. Weekly 1:1s and team meetings definitely help with this, but I welcome other suggestions and am also always up for a meetup IRL!
+I'm an "active procrastinator" and like to work under the pressure of a looming deadline, even if I've set that deadline myself.
+
+I'm still getting used to 100% remote life and how to connect with people I only get to see every quarter. Weekly 1:1s and team meetings definitely help with this, but I welcome other suggestions and am also always up for a meetup IRL!
 
