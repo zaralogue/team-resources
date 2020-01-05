@@ -50,7 +50,7 @@ Reimbursements - I expect you'll use good judgement and rely on GitHub's guides 
 ## Known issues
 (aka things I'm working on)
 
-Despite the words under the "transparency" value up above, I do struggle with being direct when it comes to relaying difficult feedback. 
+Despite the words under the "transparency" principle up above, I do struggle with being direct when it comes to relaying difficult feedback. 
 
 I can tend to take on too many projects/causes/etc (because they're all so interesting!) which can lead to burn out. 
 
