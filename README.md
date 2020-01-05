@@ -10,16 +10,13 @@ Hi, I'm Zara and I'm excited to be working with you! This readme gives some back
 
 
 ## Guiding principles
-**Connection**
-
+**Connection**<br/>
 I connect people to the best version of their future and find ways to support their career paths even when they differ from the immediate goals of my team
 
-**Empathy**
-
+**Empathy**<br/>
 I use my skill for empathizing with people, their personalities, and their stories to understand the motivations behind their behaviors
 
-**Transparency**
-
+**Transparency**<br/>
 I make expectations clear and give candid, timely feedback
 
 
