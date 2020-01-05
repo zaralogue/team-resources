@@ -36,6 +36,8 @@ I expect everyone on my team to act just like that - a team. When someone is hav
 
 1:1s are your time, and I expect you to come prepared with topics you'd like to chat about. This can be in-flight work, a problem you're having with a colleague, a future goal, anything you'd like to get input and feedback on.
 
+I encourage you to use tools to prevent burn out, such as snoozing Slack notifications during nighttime hours, taking regular PTO, and volunteering to connect to your local community.
+
 
 ## Housekeeping
 PTO - Please let me know about PTO you're planning to take so we can dicuss how it will fit in with the team's workload and other PTO plans. Log your requests in Workday and make sure to invite the team to a calendar invite so we can all remember when people will be out.
