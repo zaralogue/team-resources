@@ -45,7 +45,9 @@ Travel - I'm still figuring out how this will work, but for now please discuss a
 Reimbursements - I expect you'll use good judgement and rely on GitHub's guides for travel/office setup/phone/other reimbursements. If you're expecting reimbursement for something not covered in an established guideline, let's chat about it before you lay down the plastic.
 
 
-## Known issues (aka things I'm working on)
+## Known issues
+(aka things I'm working on)
+
 Despite the words under the "transparency" value up above, I do struggle with being super direct when it comes to relaying difficult feedback. It's something I'm working on.
 
 I can tend to take on too many projects/causes/etc (because they're all so interesting!) which can lead to burn out. 
