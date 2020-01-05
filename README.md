@@ -39,11 +39,14 @@ I encourage you to use tools to prevent burn out, such as snoozing Slack notific
 
 
 ## Housekeeping
-PTO - Please let me know about PTO you're planning to take so we can dicuss how it will fit in with the team's workload and other PTO plans. Log your requests in Workday and make sure to invite the team to a calendar invite so we can all remember when people will be out.
+**PTO**<br/>
+Please let me know about PTO you're planning to take so we can dicuss how it will fit in with the team's workload and other PTO plans. Log your requests in Workday and make sure to invite the team to a calendar invite so we can all remember when people will be out.
 
-Travel - I'm still figuring out how this will work, but for now please discuss any travel plans (Slack is fine) before booking in Concur. 
+**Travel**<br/>
+I'm still figuring out how this will work, but for now please discuss any travel plans (Slack is fine) before booking in Concur. 
 
-Reimbursements - I expect you'll use good judgement and rely on GitHub's guides for travel/office setup/phone/other reimbursements. If you're expecting reimbursement for something not covered in an established guideline, let's chat about it before you lay down the plastic.
+**Reimbursements**<br/>
+I expect you'll use good judgement and rely on GitHub's guides for travel/office setup/phone/other reimbursements. If you're expecting reimbursement for something not covered in an established guideline, let's chat about it before you lay down the plastic.
 
 
 ## Known issues
