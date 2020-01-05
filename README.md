@@ -1,4 +1,4 @@
-# team-resources
+# Welcome to the team 
 
 - [Guilding principles](#guiding-principles)
 - [My role](#my-role)
