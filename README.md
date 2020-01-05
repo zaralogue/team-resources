@@ -4,7 +4,7 @@
 - [My role](#my-role)
 - [Your role](#your-role)
 - [Housekeeping](#housekeeping)
-- Known issues 
+- [Known issues[(#known-issues)
 
 
 ## Guiding principles
