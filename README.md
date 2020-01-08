@@ -23,11 +23,11 @@ I make expectations clear and give candid, timely feedback
 ## My role
 I'm here to unblock you, provide opportunities for you to expand your methodological toolkit, and learn more about GitHub as a product and community. 
 
-I care about where you want to be in your career long-term, and will help you acquire experiences while we work together than take you closer to those goals. I commit to weekly 1:1s so I can learn more about how to help you achieve your goals. 
+I care about where you want to be in your career long-term, and will help you acquire experiences while we work together that take you closer to those goals. I commit to weekly 1:1s so I can learn more about how to help you achieve your goals. 
 
 I care about you as a human outside of work as well, and support whatever you need to do to keep yourself happy and healthy.
 
-I am a mom to two kids in addition to working so time is precious. I make an effort to shove as much as I can into regular working hours in order to keep my family schedule. That said, I do sometimes work at night or on the weekend but have NO expectation for you to reply to me outside of regular business hours. 
+I am a mom to two kids in addition to working so time is precious. I make an effort to shove as much as I can into regular working hours in order to keep my family schedule. That said, I do sometimes work at night or on the weekend but have NO expectations for you to reply to me outside of regular business hours. 
 
 
 ## Your role
