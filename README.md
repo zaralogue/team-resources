@@ -40,7 +40,7 @@ I encourage you to use tools to prevent burn out, such as snoozing Slack notific
 
 ## Housekeeping
 **PTO**<br/>
-Please let me know about PTO you're planning to take so we can dicuss how it will fit in with the team's workload and other PTO plans. Log your requests in Workday and make sure to invite the team to a calendar invite so we can all remember when people will be out.
+Please let me know about PTO you're planning to take so we can dicuss how it will fit in with the team's workload and other PTO plans. Make sure to create a calendar invite on our team calendar so we can all remember when people will be out.
 
 **Travel**<br/>
 I'm still figuring out how this will work, but for now please discuss any travel plans (Slack is fine) before booking in. 
@@ -57,6 +57,4 @@ Despite the words under the "transparency" principle up above, I do struggle wit
 I can tend to take on too many projects/causes/etc (because they're all so interesting!) which can lead to burn out. 
 
 I'm an "active procrastinator" and like to work under the pressure of a looming deadline. I've found that I've gotten better at setting earlier deadlines and committing to them because we document everything at GitHub, and if someone else can see that deadline then I'd better meet it :)
-
-I'm still getting used to 100% remote life and how to connect with people I only get to see every quarter. Weekly 1:1s and team meetings definitely help with this, but I welcome other suggestions and am also always up for a meetup IRL!
 
