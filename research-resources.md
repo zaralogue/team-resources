@@ -30,7 +30,7 @@ An article about how to set up rolling research programs, with input from **your
 [The Future of UX Research](https://medium.com/microsoft-design/the-future-of-ux-research-14fe63743c1d)<br/>
 Monty Hammontree from Microsoft argues that everyone is now responsible for collecting insights from customers, not just researchers
 
-[How to Stop UX Research being a Blocker](https://medium.com/beakerandflint/how-to-stop-ux-research-being-a-blocker-225d91105de8<br/>
+[How to Stop UX Research being a Blocker](https://medium.com/beakerandflint/how-to-stop-ux-research-being-a-blocker-225d91105de8)<br/>
 Ben Ralph has some thoughts about how research can fit into different agile methods, along with some great visualizations
 
 [Hypotheses in user research and discovery](https://medium.com/leading-service-design/hypotheses-in-user-research-and-discovery-82b17577c7d)<br/>
@@ -40,6 +40,9 @@ A follow up to his earlier article [Everything is hypothesis driven design](http
 
 ## Books
 [Thoughtless Acts? Observations on Intuitive Design](https://www.powells.com/book/thoughtless-acts-observations-on-intuitive-design-9780811847759) by Jane Fulton Suri (IDEO) - classic inspirational design book that will force you to look for the ways people hack the things we build for them
+
+[Just Enough Research](https://abookapart.com/products/just-enough-research) by Erika Hall
+Written for non-researchers, I still think this book is great for reinforcing some salient points every researcher should keep in mind ("do you *really* need a survey?")
 
 [User Friendly: How the Hidden Rules of Design Are Changing the Way We Live Work & Play](https://www.powells.com/book/user-friendly-how-the-hidden-rules-of-design-are-changing-the-way-we-live-work-play-9780374279752) by Cliff Kuang with Robert Fabricant - nice history of the flow from physical to digital product design
 
